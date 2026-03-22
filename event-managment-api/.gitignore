@@ -1,0 +1,24 @@
+# Node
+node_modules
+npm-debug.log
+yarn.lock
+
+# API env
+.env
+
+# Next.js
+.next
+out
+
+# React Native
+android/.gradle
+ios/Pods
+ios/build
+*.xcworkspace
+
+# OS
+.DS_Store
+
+# Logs
+logs
+*.log
