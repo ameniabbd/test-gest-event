@@ -1,0 +1,14 @@
+📖 Description
+Event mangment mobile est une application mobile développée avec React Native permettant de gérer des événements en temps réel via une API.
+📦 Installation
+1. Cloner le projet
+git clone url
+cd Event-managment-mobile
+2. Installer les dépendances
+yarn install ou npm intall
+cd ios
+pod install 
+cd ..
+3. Lancer app
+npx react-native run-android
+npx react-native run-ios
